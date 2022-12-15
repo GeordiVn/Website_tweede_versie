@@ -1,0 +1,102 @@
+html {
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+
+  }
+
+  body {
+      width: 1200px;
+      margin: 40px auto;
+      
+      background-image: none;
+      background-color: #164661;
+      border-style: solid;
+      
+    }
+
+  
+
+  header {
+
+    width: auto;
+    padding: 20px;
+
+  }
+  h1
+  {
+    color: #7ABEE6;
+    font-weight: 600;
+  }
+  h2
+  {
+    
+    color: #7ABEE6;
+    
+  }
+  nav
+  {
+    border-style: solid;
+    text-align: center;
+  }
+
+  .navUl {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #63cee6;
+  }
+  article
+  {
+    padding-left: 40px;
+  }
+  section
+  {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  p
+  {
+    color: white;
+    
+  }
+
+  .navLi {
+    
+    text-align: center;    
+    display: inline-flex;
+    margin: 2px 2px 2px 2px;
+  }
+
+  li a {
+    display: block;
+    
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: #0D5161;
+  }
+ figure
+ {
+  padding-left: 60px;
+  padding-right: 60px;
+ }
+  table ,td  {
+    border: 1px solid black;
+    
+  }
+  .vaardighedenTd
+  {
+    text-align: center;
+  }
+  footer
+  {
+    background-color: #333;
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    text-align: initial;
+  }
